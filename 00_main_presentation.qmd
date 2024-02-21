@@ -13,9 +13,9 @@ format:
       boardmarker-width: 5
 ---
 
-# {background-image="images/blurred_linkedin.jpg" background-size="contain" background-repeat="no-repeat"}
+# {background-image="https://images.pexels.com/photos/5039250/pexels-photo-5039250.jpeg"}
 
-# Oh No {background-image="images/blurred_linkedin.jpg" background-size="contain" background-repeat="no-repeat" background-opacity="0.7"}
+# A Sleep Deprived Grad Student {background-image="https://images.pexels.com/photos/5039250/pexels-photo-5039250.jpeg" background-opacity="0.7"}
 
 ```{css}
 .center h1 {
@@ -23,362 +23,213 @@ format:
 }
 ```
 
-# I Had a Hard Time
+# More Inclusive {background-image="https://images.pexels.com/photos/5039250/pexels-photo-5039250.jpeg" background-opacity="0.5"}
 
-# I Had Serious Advantages
+# A Package!
 
-# My Path Isn't Replicable
+::: {style="text-align: center; margin-top: 1em"}
+[gendercoder](https://docs.ropensci.org/gendercoder/){preview-link="true" style="text-align: center"}
+:::
 
-# And Still
+# {background-image="https://images.pexels.com/photos/769525/pexels-photo-769525.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"}
 
-# Better Work-Life Balance
+# Years Out of Date {background-image="https://images.pexels.com/photos/769525/pexels-photo-769525.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" background-opacity="0.7"}
 
-# Location Flexibility
+# Lots of Cases
 
-# $$$
+# {background-image="https://images.pexels.com/photos/4219101/pexels-photo-4219101.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"}
 
-# {background-image="images/blurred_linkedin.jpg" background-size="contain" background-repeat="no-repeat"}
+# Raw {background-image="https://images.pexels.com/photos/4219101/pexels-photo-4219101.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" background-opacity="0.7"}
 
-# What's a Non-BS Version of This Post? {background-image="images/blurred_linkedin.jpg" background-size="contain" background-repeat="no-repeat" background-opacity="0.7"}
+# {background-image="https://images.pexels.com/photos/6310231/pexels-photo-6310231.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"}
 
-# This Talk (Hopefully!)
+# Structured {background-image="https://images.pexels.com/photos/6310231/pexels-photo-6310231.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" background-opacity="0.7"}
 
-# Quick Note
+# A Tool?
 
-# The Posts Can Be Helpful
-
-# Concrete Info
-
-# Actionable
-
-# Not Directly Selling
-
-# {background-iframe="https://www.linkedin.com/embed/feed/update/urn:li:share:7124745189180538881" background-size="contain" background-repeat="no-repeat" background-interactive="true"}
+# Responsible LLMs
 
 # Agenda
 
-- Identifying roles
-- Converting CV to resume
-- Networking
-- Enhancing + acquiring skills
-- Portfolio work
-- Applying
-- Interviewing
-- Negotiating
+- What are LLMs?
+- How do LLMs work?
+- What are LLMs good at?
+- What I've used LLMs for
+- What I wouldn't use LLMs for
+- Potential roadmap
 - Q&A
 
-# End to End vs. Deep-Dive
+# What are LLMs?
 
-# End to End
+# {background-image="https://images.pexels.com/photos/3155367/pexels-photo-3155367.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"}
 
-## More in-depth resources at end of each section {.center}
+# Magic {background-image="https://images.pexels.com/photos/3155367/pexels-photo-3155367.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" background-opacity="0.7"}
 
-```{css}
-.center h2 {
-  text-align: center;
-}
-```
+# {background-image="https://images.pexels.com/photos/1097456/pexels-photo-1097456.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"}
 
-# Identifying Roles
+# Scary Magic {background-image="https://images.pexels.com/photos/1097456/pexels-photo-1097456.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" background-opacity="0.7"}
 
-# Favorite Part?
+# It's Much Worse
 
-# Favorite Overlap?
+# It's Math {background-image="https://images.pexels.com/photos/374918/pexels-photo-374918.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" background-opacity="0.7"}
 
-# Probably a Role
+# Don't Run Away
 
-# Search LinkedIn
+# How Do LLMs Work?
 
-# Most People "Leave"
+# Take in Numbers
 
-# Where Did They End Up?
+# Do Matrix Math
 
-# Go Outside Common Titles
+# Spit Out Numbers
 
-# Resources
+# Lots of Non-Numbers?
 
-- [Job titles for social scientists ](https://hkotek.com/blog/altac-jobs-for-social-scientists/){preview-link="true" style="text-align: center"}
-- [Jobs to search for](https://www.linkedin.com/pulse/what-jobs-do-i-search-social-science-degree-anna-hartley/){preview-link="true" style="text-align: center"}
-- [AktAc jobs](https://twitter.com/AltacJobs){preview-link="true" style="text-align: center"}
-- [levels.fyi job board](https://www.levels.fyi/jobs?from=subnav){preview-link="true" style="text-align: center"}
-- [flexjobs job board](https://www.flexjobs.com/){preview-link="true" style="text-align: center"}
+# {background-image="https://images.pexels.com/photos/1097491/pexels-photo-1097491.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"}
 
-# Converting CV to Resume
+# We See {background-image="https://images.pexels.com/photos/1097491/pexels-photo-1097491.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" background-opacity="0.7"}
 
-# One Page
+# {background-image="images/llm_vision.png"}
 
-# Use a Free Template
+# LLMs Process {background-image="images/llm_vision.png" background-opacity="0.7"}
 
-# Make in Easy to Tailor Format
+# {background-image="images/human_read.png"}
 
-# Compare to Job Description
+# We Read {background-image="images/human_read.png" background-opacity="0.7"}
 
-# Can Inform Skills Phase
+# {background-image="images/llm_process_text.png"}
 
-## Talk business value first, then how you achieved it {.center}
+# LLMs Process {background-image="images/llm_process_text.png" background-opacity="0.7"}
 
-```{css}
-.center h2 {
-  text-align: center;
-}
-```
-
-## Built a custom LLM to extract clinical insights {.center}
-
-```{css}
-.center h2 {
-  text-align: center;
-}
-```
-
-## Unlocked ~30% more top-of-funnel ARR by building a custom LLM for extracting clinical insights {.center}
-
-```{css}
-.center h2 {
-  text-align: center;
-}
-```
-
-# Here's Mine
-
-::: {style="text-align: center; margin-top: 1em"}
-[MY RESUME](https://docs.google.com/document/d/13eiP7DP97qG8SXcpLAXrdHC5PrjX_l9RGu5rb9g339M/edit?usp=sharing){preview-link="true" style="text-align: center"}
-:::
-
-# Resources
-
-- [Template I used](https://blog.pragmaticengineer.com/the-pragmatic-engineers-resume-template/){preview-link="true" style="text-align: center"}
-- [UC Davis CV to resume workshop](https://icc.ucdavis.edu/materials/resume/cv/convertingcv){preview-link="true" style="text-align: center"}
-- [Indeed CV to resume tutorial](https://www.indeed.com/career-advice/resumes-cover-letters/how-to-convert-academic-cv-for-industry-positions){preview-link="true" style="text-align: center"}
-
-# Networking
-
-# Everyone's Favorite
-
-# Common Interests
-
-# Slacks
-
-# Discord Servers?
-
-# Twitch Channels??
-
-# Meetups
-
-# I Regret to Inform You
-
-# LinkedIn
-
-# {background-iframe="https://www.linkedin.com/embed/feed/update/urn:li:share:7124745189180538881" background-size="contain" background-repeat="no-repeat" background-interactive="true"}
-
-# Start Small
-
-# Remember common interests
-
-# Resources
-
-- [AltAc chats](https://www.linkedin.com/company/altacchats/){preview-link="true" style="text-align: center"}
-- [R for data science Slack](https://rfordatasci.com/){preview-link="true" style="text-align: center"}
-- [Approaching Significance Discord](https://discord.gg/9xkE2tnhnH){preview-link="true" style="text-align: center"}
-- [Nick Wan Twitch](https://www.twitch.tv/nickwan_datasci){preview-link="true" style="text-align: center"}
-
-# Skills
-
-# You Have A Lot
+# Always Numbers
 
 # Need to Translate
 
-# Need More
+# Example
 
-# Data Science Specific
+# {background-image="images/llm_prompt.png" background-size="contain" background-repeat="no-repeat"}
 
-# SQL
+# Tokenizer Converts Words to Numbers
 
-# Python
+# Tokens
 
-# Version Control
+# Matrix Math
 
-# Software Engineering (Maybe?)
+# Predicts Next Most Likely Token 
 
-# How?
+# Tokenizer Converts Tokens to Words
 
-# Deprioritize
+# Tokenizer Converts Numbers to Words
 
-# Try Free First
+# {background-image="images/llm_response.png" background-size="contain" background-repeat="no-repeat"}
 
-# Sample Resources
+# Always Numbers
 
-# Get a Feel
+# No Magic
 
-# Resources
+# What are LLMs Good At?
 
-- [SQL Lemur 30 Day](https://datalemur.com/blog/learn-sql-in-30-days-roadmap){preview-link="true" style="text-align: center"}
-- [Data Science at the Command Line](https://jeroenjanssens.com/dsatcl/){preview-link="true" style="text-align: center"}
-- [Docker crash course](https://www.youtube.com/watch?v=pg19Z8LL06w){preview-link="true" style="text-align: center"}
-- [CS50x lectures](https://www.youtube.com/playlist?list=PLhQjrBD2T380F_inVRXMIHCqLaNUd7bN4){preview-link="true" style="text-align: center"}
-- [Pracical deep learning for coders](https://course.fast.ai/){preview-link="true" style="text-align: center"}
+# We Don't Know
 
-# Portfolio
+# Best Guesses
 
-# Show You Can Deliver
+# {background-image="https://images.pexels.com/photos/4219101/pexels-photo-4219101.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"}
 
-# Needs to Be Fun
+# Raw {background-image="https://images.pexels.com/photos/4219101/pexels-photo-4219101.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" background-opacity="0.7"}
 
-# Can Fill In
+# {background-image="https://images.pexels.com/photos/6310231/pexels-photo-6310231.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"}
 
-# Here's Mine
+# Structured {background-image="https://images.pexels.com/photos/6310231/pexels-photo-6310231.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" background-opacity="0.7"}
+
+# Expansive
+
+# Compressed
+
+# Practically
+
+# Summaries
+
+# WHat I've Used LLMs For
+
+# What They're Good At
+
+# {background-image="images/aiberry_process.png" background-size="contain" background-repeat="no-repeat"}
+
+# {background-image="images/aiberry_summary.png" background-size="contain" background-repeat="no-repeat"}
+
+# {background-image="images/aiberry_scoring.png" background-size="contain" background-repeat="no-repeat"}
+
+# People Prefer Botberry vs. Form
+
+# Read More Here
 
 ::: {style="text-align: center; margin-top: 1em"}
-[MY PORTFOLIO](https://mcmullarkey.github.io/){preview-link="true" style="text-align: center"}
+[PEER-REVIEWED CLINICAL VALIDATION PAPER](https://osf.io/preprints/psyarxiv/btz6n){preview-link="false" style="text-align: center"}
 :::
 
-# Maybe Not Necessary
+# What I Wouldn't Use LLMs For
 
-# Even More Grifts Here
+# "Therapist" Chatbots
 
-# Resources
+# 
 
-- [Build a Career in Data Science podcast](https://podcast.bestbook.cool/){preview-link="true" style="text-align: center"}
-- [User Experience Research portfolio tutorial](https://www.userinterviews.com/blog/ux-research-portfolio-examples-templates){preview-link="true" style="text-align: center"}
+::: {style="text-align: center; margin-top: 1em"}
+["Spicy autocorrect" - Dr. Rumman Chowdhury](www.rollingstone.com%2Fculture%2Fculture-features%2Fwomen-warnings-ai-danger-risk-before-chatgpt-1234804367%2F){preview-link="false" style="text-align: center"}
+:::
 
-# Applying
+# Stochastic Parrots
 
-# Referrals
+::: {style="text-align: center; margin-top: 1em"}
+[PAPER HERE](https://dl.acm.org/doi/pdf/10.1145/3442188.3445922){preview-link="false" style="text-align: center"}
+:::
 
-# Networking Can Pay Off
+# 
 
-# Don't Go Too Hard
+::: {style="text-align: center; margin-top: 1em"}
+["You’re a matrix of numbers, you do not have opinions! This is not OK." - Simon Willison](https://simonwillison.net/2023/Aug/27/wordcamp-llms/#personal-ai-ethics){preview-link="true" style="text-align: center"}
+:::
 
-# Cold Apps
+# Assessment Chat Bots
 
-# Tailor Resume
+# Botberry's Script Isn't from LLMs
 
-# I Know
+# Anything Without Bias Testing
 
-# It's Worth It
+# Bias Testing is Crucial
 
-# Create Tailor-able Cover Letter
+::: {style="text-align: center; margin-top: 1em"}
+[PEER-REVIEWED CLINICAL VALIDATION PAPER](https://osf.io/preprints/psyarxiv/btz6n){preview-link="false" style="text-align: center"}
+:::
 
-# Target a Variety of Job Boards
+# Also Crucial for Other Models
 
-# Pacing
+# Potential Roadmap
 
-# Interviews
+# Humility
 
-# Often Many
+# Prioritize Present Harms
 
-# Varies Widely
+# Play to LLM Strengths
 
-# Two Types
+# Build Guardrails
 
-# Behavioral
-
-# Technical
-
-# For Behavioral
-
-# STAR Framework
-
-# Situation
-
-# Task
-
-# Action
-
-# Resolution
-
-# For Technical
-
-# Practice
-
-# Can Ask Internal Recruiter
-
-# Show Thought Process
-
-# Don't Have to Ace
+# Start Small
 
 # Resources
 
-- [MIT STAR tutorial](https://capd.mit.edu/resources/the-star-method-for-behavioral-interviews/){preview-link="true" style="text-align: center"}
-- [Penn technical interview tutorial](https://careerdevelopment.princeton.edu/guides/interviews/technical-interview-preparation){preview-link="true" style="text-align: center"}
-
-# Negotiating
-
-# Starts Early
-
-# Seek Out Info
-
-# Recruiter Call
-
-# Looking for a Good Fit
-
-# Even a Range Would Help
-
-# Verbal Offer
-
-# They Expect It
-
-# No?
-
-# Red Flag
-
-# Not Limited to Base Salary
-
-# Equity
-
-# Work from Home
-
-# Etc.
-
-# Resources
-
-- [levels.fyi salary transparency](https://www.levels.fyi/t){preview-link="true" style="text-align: center"}
-- [Indeed negotiation tutorial](https://www.indeed.com/career-advice/pay-salary/how-to-negotiate-salary){preview-link="true" style="text-align: center"}
-
-# Summary
-
-## We all work for companies {.center}
-
-```{css}
-.center h2 {
-  text-align: center;
-}
-```
-
-## Even a dream job is still a job {.center}
-
-```{css}
-.center h2 {
-  text-align: center;
-}
-```
-
-## Hard for academic positions to compete solely as jobs {.center}
-
-```{css}
-.center h2 {
-  text-align: center;
-}
-```
-
-## As difficult as this process is, can happen anytime {.center}
-
-```{css}
-.center h2 {
-  text-align: center;
-}
-```
+- [Practical deep learning for coders](https://course.fast.ai/){preview-link="true" style="text-align: center"}
+- [Stochastic parrots paper](https://dl.acm.org/doi/pdf/10.1145/3442188.3445922){preview-link="false" style="text-align: center"}
+- [Let's build GPT: from scratch, in code, spelled out.](https://www.youtube.com/watch?v=kCc8FmEb1nY&t=1s){preview-link="false" style="text-align: center"}
+- [The unseen Black faces of AI algorithms](https://www.nature.com/articles/d41586-022-03050-7){preview-link="false" style="text-align: center"}
+- [A hacker's guide to language models](https://www.youtube.com/watch?v=jkrNMKz9pWU){preview-link="false" style="text-align: center"}
 
 # Thanks!
 
 # Q&A
 
-
 ```{r}
 #| echo: false
 
-library(tidyverse)
 library(palmerpenguins)
-library(janitor)
 
 ```
