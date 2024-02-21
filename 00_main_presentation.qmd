@@ -107,6 +107,12 @@ format:
 
 # Example
 
+# Local LLM
+
+::: {style="text-align: center; margin-top: 1em"}
+[LLAMA.CPP GITHUB REPO HERE](https://github.com/ggerganov/llama.cpp){preview-link="false" style="text-align: center"}
+:::
+
 # {background-image="images/llm_prompt.png" background-size="contain" background-repeat="no-repeat"}
 
 # Tokenizer Converts Words to Numbers
